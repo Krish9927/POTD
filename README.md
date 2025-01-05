@@ -45,7 +45,12 @@ DAY14 { TASK 1=}
 DAY15 { TASK 1=}
      { TASK 2=}   
 
-OPC ROUND 1{PROBLEM 1=https://codeforces.com/contest/2054/problem/A }
+OPC ROUND 1{PROBLEM 1=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/A }
+           {PROBLEM 2=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/B}
+           {PROBLEM 3=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/C }
+           {PROBLEM 4=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/D}
+           {PROBLEM 5=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/E}
+           {PROBLEM 6=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/F}
      
      
           
