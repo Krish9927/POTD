@@ -51,6 +51,22 @@ OPC ROUND 1{PROBLEM 1=https://codeforces.com/group/X1jmHxEVlA/contest/576957/pro
            {PROBLEM 4=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/D}
            {PROBLEM 5=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/E}
            {PROBLEM 6=https://codeforces.com/group/X1jmHxEVlA/contest/576957/problem/F}
+
+DAY 16 {TASK 1=https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1}
+       {TASK 2=https://leetcode.com/problems/binary-search/description/} 
+
+DAY 17 {TASK 1=}
+       {TASK 2=} 
+
+DAY 18 {TASK 1=}
+       {TASK 2=}
+
+DAY 19 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 20 {TASK 1=}
+       {TASK 2=} 
+           
      
      
           
