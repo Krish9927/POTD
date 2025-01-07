@@ -58,8 +58,8 @@ DAY 16 {TASK 1=https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-15
 DAY 17 {TASK 1=https://leetcode.com/problems/arranging-coins/description/}
        {TASK 2=https://leetcode.com/problems/search-insert-position/description/} 
 
-DAY 18 {TASK 1=}
-       {TASK 2=}
+DAY 18 {TASK 1=https://leetcode.com/problems/search-a-2d-matrix/description/}
+       {TASK 2=https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1}
 
 DAY 19 {TASK 1=}
        {TASK 2=}        
