@@ -61,8 +61,8 @@ DAY 17 {TASK 1=https://leetcode.com/problems/arranging-coins/description/}
 DAY 18 {TASK 1=https://leetcode.com/problems/search-a-2d-matrix/description/}
        {TASK 2=https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1}
 
-DAY 19 {TASK 1=}
-       {TASK 2=}        
+DAY 19 {TASK 1=https://leetcode.com/problems/find-peak-element/}
+       {TASK 2=https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/}        
        
 DAY 20 {TASK 1=}
        {TASK 2=} 
