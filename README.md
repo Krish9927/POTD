@@ -64,8 +64,62 @@ DAY 18 {TASK 1=https://leetcode.com/problems/search-a-2d-matrix/description/}
 DAY 19 {TASK 1=https://leetcode.com/problems/find-peak-element/}
        {TASK 2=https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/}        
        
-DAY 20 {TASK 1=}
+DAY 20 {TASK 1= https://leetcode.com/problems/search-a-2d-matrix-ii/description/}
+       {TASK 2=https://leetcode.com/problems/search-in-rotated-sorted-array-ii/} 
+       
+DAY 21 {TASK 1=}
+       {TASK 2=}
+
+DAY 22 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 23 {TASK 1=}
        {TASK 2=} 
+
+DAY 24 {TASK 1=}
+       {TASK 2=}
+
+DAY 25 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 26 {TASK 1=}
+       {TASK 2=}
+       
+DAY 21 {TASK 1=}
+       {TASK 2=}
+
+DAY 22 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 23 {TASK 1=}
+       {TASK 2=} 
+
+DAY 24 {TASK 1=}
+       {TASK 2=}
+
+DAY 25 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 26 {TASK 1=}
+       {TASK 2=}
+       
+DAY 21 {TASK 1=}
+       {TASK 2=}
+
+DAY 22 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 23 {TASK 1=}
+       {TASK 2=} 
+
+DAY 24 {TASK 1=}
+       {TASK 2=}
+
+DAY 25 {TASK 1=}
+       {TASK 2=}        
+       
+DAY 26 {TASK 1=}
+       {TASK 2=}
        
 DAY 21 {TASK 1=}
        {TASK 2=}
