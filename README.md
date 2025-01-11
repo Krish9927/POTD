@@ -67,8 +67,8 @@ DAY 19 {TASK 1=https://leetcode.com/problems/find-peak-element/}
 DAY 20 {TASK 1= https://leetcode.com/problems/search-a-2d-matrix-ii/description/}
        {TASK 2=https://leetcode.com/problems/search-in-rotated-sorted-array-ii/} 
        
-DAY 21 {TASK 1=}
-       {TASK 2=}
+DAY 21 {TASK 1=https://leetcode.com/problems/koko-eating-bananas/description/}
+       {TASK 2=https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/}
 
 DAY 22 {TASK 1=}
        {TASK 2=}        
