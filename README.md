@@ -70,8 +70,8 @@ DAY 20 {TASK 1= https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 DAY 21 {TASK 1=https://leetcode.com/problems/koko-eating-bananas/description/}
        {TASK 2=https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/}
 
-DAY 22 {TASK 1=}
-       {TASK 2=}        
+DAY 22 {TASK 1=https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1}
+       {TASK 2=https://www.geeksforgeeks.org/problems/aggressive-cows/1}        
        
 DAY 23 {TASK 1=}
        {TASK 2=} 
