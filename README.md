@@ -73,8 +73,8 @@ DAY 21 {TASK 1=https://leetcode.com/problems/koko-eating-bananas/description/}
 DAY 22 {TASK 1=https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1}
        {TASK 2=https://www.geeksforgeeks.org/problems/aggressive-cows/1}        
        
-DAY 23 {TASK 1=}
-       {TASK 2=} 
+DAY 23 {TASK 1=https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1}
+       {TASK 2=https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/0} 
 
 DAY 24 {TASK 1=}
        {TASK 2=}
