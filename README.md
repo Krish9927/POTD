@@ -79,8 +79,9 @@ DAY 23 {TASK 1=https://www.geeksforgeeks.org/problems/the-painters-partition-pro
 DAY 24 {TASK 1=https://leetcode.com/problems/median-of-two-sorted-arrays/description/}
        {TASK 2=https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1}
 
-DAY 25 {TASK 1=}
-       {TASK 2=}        
+DAY 25 {TASK 1=https://leetcode.com/problems/string-compression/description/}
+       {TASK 2=https://leetcode.com/problems/merge-sorted-array/description/}
+       {TASK 3=https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/}
        
 DAY 26 {TASK 1=}
        {TASK 2=}
