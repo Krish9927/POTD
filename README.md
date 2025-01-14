@@ -76,8 +76,8 @@ DAY 22 {TASK 1=https://www.geeksforgeeks.org/problems/allocate-minimum-number-of
 DAY 23 {TASK 1=https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1}
        {TASK 2=https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/0} 
 
-DAY 24 {TASK 1=}
-       {TASK 2=}
+DAY 24 {TASK 1=https://leetcode.com/problems/median-of-two-sorted-arrays/description/}
+       {TASK 2=https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1}
 
 DAY 25 {TASK 1=}
        {TASK 2=}        
