@@ -83,8 +83,9 @@ DAY 25 {TASK 1=https://leetcode.com/problems/string-compression/description/}
        {TASK 2=https://leetcode.com/problems/merge-sorted-array/description/}
        {TASK 3=https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/}
        
-DAY 26 {TASK 1=}
-       {TASK 2=}
+DAY 26 {TASK 1=https://leetcode.com/problems/container-with-most-water/description/}
+       {TASK 2=https://codeforces.com/group/X1jmHxEVlA/contest/503893/problem/C}
+       {TASK 3=https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/}
        
 DAY 21 {TASK 1=}
        {TASK 2=}
