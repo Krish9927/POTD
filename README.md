@@ -87,8 +87,8 @@ DAY 26 {TASK 1=https://leetcode.com/problems/container-with-most-water/descripti
        {TASK 2=https://codeforces.com/group/X1jmHxEVlA/contest/503893/problem/C}
        {TASK 3=https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/}
        
-DAY 21 {TASK 1=}
-       {TASK 2=}
+DAY 29 {TASK 1=https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1}
+       {TASK 2=https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1}
 
 DAY 22 {TASK 1=}
        {TASK 2=}        
